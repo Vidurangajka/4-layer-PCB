@@ -9,7 +9,7 @@ This repository documents the design and development of the **ENTC Restaurant Ro
 ### 🧠 1. PCB 3D Model (Design Preview)
 Rendered 3D model showing placement of SAM3X, connectors, and components.
 
-![3D Model](images/pcb-3d.png)
+![3D Model](Screenshot 2025-07-10 054325.png)
 
 ---
 
